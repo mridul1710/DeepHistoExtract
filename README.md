@@ -8,3 +8,4 @@ To implement DHE in your computer, open your terminal and type:
 python try7.py
 
 ```
+Next, follow the steps in the video to train the model use it for further image segmentation. 
